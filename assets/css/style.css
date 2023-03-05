@@ -105,9 +105,9 @@ p {
     font-size: 36px;
 }
 
-/* Pushed "benefits" class related content below "main" content, renamed to "benefits-sidebar" */
+/* Pushed "benefits" class related content below "main" content, renamed to "benefits-sidebar". Altered margin slightly. */
 .benefits-sidebar {
-    margin-right: 20px;
+    margin-right: 40px;
     padding: 20px;
     clear: both;
     float: right;
